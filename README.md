@@ -113,7 +113,7 @@ The following graphs were used in the analysis:
 
 ### 📎 Additional Documents  
 
-📄 [Download Project Report (Word Version)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx)  
+📄 [Download Project Report (Word Version)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/ANALYSIS%20OF%20CLM%20PROCESS%20CAPABILITY%20INDEX%20WITH%20LINDLEY%20DISTRIBUTION.docx)  
 
 
 ## 💬 Summary Evaluation
