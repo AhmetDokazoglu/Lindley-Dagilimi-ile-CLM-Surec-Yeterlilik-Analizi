@@ -37,12 +37,11 @@ CLM (Capability Life Measurement) sürecin hem **kalitesini hem de ömür perfor
 Lindley dağılımı, klasik normal dağılımlara kıyasla **asimetrik ve daha esnek** bir yapı sunar.
 
 1) Lindley olasılık yoğunluk fonksiyonu:
-f(x;θ)=1+θθ2​(1+x)e−θx,x>0, θ>0
+<img width="424" height="73" alt="image" src="https://github.com/user-attachments/assets/3a125105-a0a7-4f3f-b9a7-2b2dacb18552" />
+
 
 2) Önerilen CLM formülü:
-   CLM=E(X−M)M−L​=1+δ
-​δ​+1+δ
-​C​,δ=σM−μ​
+  <img width="532" height="68" alt="image" src="https://github.com/user-attachments/assets/88cf8c15-d95e-49f8-9f14-729ee92682d8" />
 
 Burada:
 - \( M \): Medyan  
