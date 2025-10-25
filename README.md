@@ -1,7 +1,10 @@
 ⚙️ Lindley Dağılımı ile CLM Süreç Yeterlilik Analizi  
+
 📊 Üretim Süreçlerinde Asimetrik Dağılımlar İçin Yeni Bir Yaklaşım  
 
+
 🎯 Proje Özeti
+
 Bu proje, üretim süreçlerinde **asimetrik (non-normal)** dağılımları dikkate alarak, **süreç yeterliliğini daha doğru ölçmek** amacıyla geliştirilmiş bir istatistiksel analiz çalışmasıdır.  
 
 Klasik süreç yeterlilik indeksleri (**Cp, Cpk**) genellikle **normal dağılım varsayımı** altında hesaplanır.  
@@ -19,6 +22,7 @@ Proje; özellikle otomotiv, savunma, enerji ve imalat sektörlerinde kullanılan
 Gerçek üretim verileri üzerinde yapılan analizler, klasik yöntemlere göre daha düşük hata oranı ve daha yüksek model uyumu göstermiştir.
 
 🔹 Gerçek Hayat Uygulaması
+
 Bir otomotiv parçası üretim süreci üzerinde 60 örneklem değeriyle analiz yapılmıştır:  
 
 | Parametre       |   eğer   |
@@ -36,6 +40,7 @@ CLM > 1 olduğundan süreç **kabul edilebilir kalite düzeyinde**, ancak **iyil
 
 
 🧠 Akademik ve Teknik Arka Plan
+
 🔸 CLM İndeksi Nedir?
 CLM (Capability Life Measurement) sürecin hem **kalitesini hem de ömür performansını** ölçen bir metriktir.  
 Lindley dağılımı, klasik normal dağılımlara kıyasla **asimetrik ve daha esnek** bir yapı sunar.
@@ -75,11 +80,13 @@ Bu yaklaşım, sürecin asimetrisini hesaba katarak **gerçek kalite performans�
 | 0.7       | ↑↑   | ↑↑  | ↑↑  | ↑↑  | Tutarsız model    |
 
 🔹 Özet:
+
 - Küçük ve orta θ değerlerinde (0.2–0.5) model **yüksek doğruluk** sağlar.  
 - Yüksek θ değerlerinde (0.7) sapma ve hata artar → model kararlılığı azalır.  
 - CLM, klasik Cp–Cpk endekslerine göre **asimetrik süreçlerde daha güvenilir** sonuçlar verir.
 
 📊 Görselleştirmeler
+
 Analizlerde şu grafikler kullanılmıştır:  
 - **Bias, MSE, ABB, MRE** değişim grafikleri  
 - **Süreç dağılımı ve spesifikasyon sınırları** (histogram)  
@@ -87,6 +94,7 @@ Analizlerde şu grafikler kullanılmıştır:
 
 
 🧩 Öne Çıkan Kazanımlar
+
 ✅ Asimetrik veriler için klasik PCI’lara göre daha doğru analiz  
 ✅ Monte Carlo simülasyonu ile parametrik doğrulama  
 ✅ Gerçek üretim verisinde uygulama ve görselleştirme  
@@ -94,6 +102,7 @@ Analizlerde şu grafikler kullanılmıştır:
 
 
 👤 Yazar
+
 **Yunus Ahmet Dokazoğlu**  
 🎓 Selçuk Üniversitesi – İstatistik Bölümü  
 📍 Türkiye  
