@@ -11,8 +11,12 @@ Bu nedenle proje kapsamında, **Lindley Dağılımı** kullanılarak **CLM (Capa
 Bu endeks, klasik PCI ölçütlerine kıyasla **daha doğru, esnek ve güvenilir** sonuçlar sunmaktadır.
 
 
-💼 Uygulama Odaklı Bakış (Freelancer & Kurumsal)
-Projede hedeflenen, hem **kurumsal kalite kontrol analizleri** hem de **freelance veri analizi projelerinde** kullanılabilecek ölçeklenebilir bir süreç değerlendirme modeli geliştirmektir.  
+💼 Uygulama Odaklı Bakış
+
+Bu çalışma, farklı sektörlerdeki üretim ve kalite yönetimi süreçlerinde kullanılabilecek, ölçeklenebilir ve güvenilir bir süreç değerlendirme modeli geliştirmeyi amaçlamaktadır.
+
+Proje; özellikle otomotiv, savunma, enerji ve imalat sektörlerinde kullanılan kalite kontrol analizlerine katkı sağlayacak şekilde tasarlanmıştır.
+Gerçek üretim verileri üzerinde yapılan analizler, klasik yöntemlere göre daha düşük hata oranı ve daha yüksek model uyumu göstermiştir.
 
 🔹 Gerçek Hayat Uygulaması
 Bir otomotiv parçası üretim süreci üzerinde 60 örneklem değeriyle analiz yapılmıştır:  
@@ -88,11 +92,6 @@ Analizlerde şu grafikler kullanılmıştır:
 ✅ Gerçek üretim verisinde uygulama ve görselleştirme  
 ✅ R, istatistik ve veri bilimi araçlarının entegre kullanımı  
 
-📚 Kaynakça (Seçili)
-- Ghitany, M. E., Atieh, B., & Nadarajah, S. (2008). *Lindley Distribution and Its Application*.  
-- Kundu, D., & Pradhan, B. (2009). *Hybrid Censoring and Parameter Estimation*.  
-- Montgomery, D. C. (2013). *Introduction to Statistical Quality Control*.  
-- Clements, J. A. (1989). *Process Capability Calculations for Non-normal Distributions*.
 
 👤 Yazar
 **Yunus Ahmet Dokazoğlu**  
