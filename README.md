@@ -36,15 +36,110 @@ CLM > 1 olduğundan süreç **kabul edilebilir kalite düzeyinde**, ancak **iyil
 CLM (Capability Life Measurement) sürecin hem **kalitesini hem de ömür performansını** ölçen bir metriktir.  
 Lindley dağılımı, klasik normal dağılımlara kıyasla **asimetrik ve daha esnek** bir yapı sunar.
 
-Lindley olasılık yoğunluk fonksiyonu:
-\[
-f(x; θ) = \frac{θ^2}{1 + θ}(1 + x)e^{-θx}, \quad x > 0, θ > 0
-\]
+1) Lindley olasılık yoğunluk fonksiyonu (pdf)
 
-Önerilen CLM formülü:
-\[
-CLM = \frac{M - L}{E(X - M)} = \frac{δ}{\sqrt{1 + δ}} + \frac{C}{\sqrt{1 + δ}}
-\]
+Aşağıdakini tek satır boşluk bırakmadan yapıştır:
+
+𝑓
+(
+𝑥
+;
+ 
+𝜃
+)
+=
+𝜃
+2
+1
++
+𝜃
+ 
+(
+1
++
+𝑥
+)
+ 
+𝑒
+−
+𝜃
+𝑥
+,
+𝑥
+>
+0
+,
+ 
+𝜃
+>
+0
+f(x;θ)=
+1+θ
+θ
+2
+	​
+
+(1+x)e
+−θx
+,x>0, θ>0
+2) CLM tanımı
+
+Bunu da yine tek başına bir satırda yapıştır:
+
+𝐶
+𝐿
+𝑀
+=
+𝑀
+−
+𝐿
+𝐸
+(
+𝑋
+−
+𝑀
+)
+=
+𝛿
+1
++
+𝛿
++
+𝐶
+1
++
+𝛿
+,
+𝛿
+=
+𝑀
+−
+𝜇
+𝜎
+CLM=
+E(X−M)
+M−L
+	​
+
+=
+1+δ
+	​
+
+δ
+	​
+
++
+1+δ
+	​
+
+C
+	​
+
+,δ=
+σ
+M−μ
+	​
+
 Burada:
 - \( M \): Medyan  
 - \( L \): Alt spesifikasyon limiti  
