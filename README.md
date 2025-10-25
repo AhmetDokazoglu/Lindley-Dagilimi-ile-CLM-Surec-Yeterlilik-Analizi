@@ -102,12 +102,11 @@ Analizlerde şu grafikler kullanılmıştır:
 📍 Türkiye  
 
 🔗 [GitHub Profilim](https://github.com/AhmetDokazoglu)  
-🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmetdokazoglu)
+🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
 
 
 📎 Ek Dökümanlar  
-📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/blob/main/Proje_Raporu.docx)  
-🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmetdokazoglu)
+📄 [Proje Raporunun Word Versiyonu (İndir)]([https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/blob/main/Proje_Raporu.docx](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx))  
 
 
 💬 Kısa Değerlendirme
