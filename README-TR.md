@@ -1,9 +1,9 @@
-⚙️ Lindley Dağılımı ile CLM Süreç Yeterlilik Analizi  
+⚙️ ## Lindley Dağılımı ile CLM Süreç Yeterlilik Analizi  
 
-📊 Üretim Süreçlerinde Asimetrik Dağılımlar İçin Yeni Bir Yaklaşım  
+📊 ## Üretim Süreçlerinde Asimetrik Dağılımlar İçin Yeni Bir Yaklaşım  
 
 
-🎯 Proje Özeti
+🎯 ## Proje Özeti
 
 Bu proje, üretim süreçlerinde **asimetrik (non-normal)** dağılımları dikkate alarak, **süreç yeterliliğini daha doğru ölçmek** amacıyla geliştirilmiş bir istatistiksel analiz çalışmasıdır.  
 
@@ -14,14 +14,14 @@ Bu nedenle proje kapsamında, **Lindley Dağılımı** kullanılarak **CLM (Capa
 Bu endeks, klasik PCI ölçütlerine kıyasla **daha doğru, esnek ve güvenilir** sonuçlar sunmaktadır.
 
 
-💼 Uygulama Odaklı Bakış
+💼 ##Uygulama Odaklı Bakış
 
 Bu çalışma, farklı sektörlerdeki üretim ve kalite yönetimi süreçlerinde kullanılabilecek, ölçeklenebilir ve güvenilir bir süreç değerlendirme modeli geliştirmeyi amaçlamaktadır.
 
 Proje; özellikle otomotiv, savunma, enerji ve imalat sektörlerinde kullanılan kalite kontrol analizlerine katkı sağlayacak şekilde tasarlanmıştır.
 Gerçek üretim verileri üzerinde yapılan analizler, klasik yöntemlere göre daha düşük hata oranı ve daha yüksek model uyumu göstermiştir.
 
-🔹 Gerçek Hayat Uygulaması
+🔹 ## Gerçek Hayat Uygulaması
 
 Bir otomotiv parçası üretim süreci üzerinde 60 örneklem değeriyle analiz yapılmıştır:  
 
@@ -39,7 +39,7 @@ Süreç kontrol altında, varyans düşük ve ortalama hedefe çok yakındır.
 CLM > 1 olduğundan süreç **kabul edilebilir kalite düzeyinde**, ancak **iyileştirmeye açık** durumdadır.
 
 
-🧠 Akademik ve Teknik Arka Plan
+🧠 ##Akademik ve Teknik Arka Plan
 
 🔸 CLM İndeksi Nedir?
 CLM (Capability Life Measurement) sürecin hem **kalitesini hem de ömür performansını** ölçen bir metriktir.  
@@ -60,7 +60,7 @@ Burada:
 Bu yaklaşım, sürecin asimetrisini hesaba katarak **gerçek kalite performansını** daha doğru biçimde yansıtır.
 
 
-💻 Kullanılan Teknolojiler
+💻 ##Kullanılan Teknolojiler
 | Araç / Kütüphane | Açıklama |
 |------------------|-----------|
 | **R (v4.3)** | İstatistiksel hesaplama ve simülasyon |
@@ -71,7 +71,7 @@ Bu yaklaşım, sürecin asimetrisini hesaba katarak **gerçek kalite performans�
 | **Bootstrap** | Güven aralığı oluşturma |
 
 
-📈 Simülasyon Sonuçları
+📈 ##Simülasyon Sonuçları
 
 | θ (Theta) | Bias | MSE | ABB | MRE |    Performans     |
 |-----------|------|-----|-----|-----|-------------------|
@@ -85,7 +85,7 @@ Bu yaklaşım, sürecin asimetrisini hesaba katarak **gerçek kalite performans�
 - Yüksek θ değerlerinde (0.7) sapma ve hata artar → model kararlılığı azalır.  
 - CLM, klasik Cp–Cpk endekslerine göre **asimetrik süreçlerde daha güvenilir** sonuçlar verir.
 
-📊 Görselleştirmeler
+📊 ##Görselleştirmeler
 
 Analizlerde şu grafikler kullanılmıştır:  
 - **Bias, MSE, ABB, MRE** değişim grafikleri  
@@ -93,7 +93,7 @@ Analizlerde şu grafikler kullanılmıştır:
 - **CLM vs Cp/Cpk karşılaştırması**
 
 
-🧩 Öne Çıkan Kazanımlar
+🧩 ##Öne Çıkan Kazanımlar
 
 ✅ Asimetrik veriler için klasik PCI’lara göre daha doğru analiz  
 ✅ Monte Carlo simülasyonu ile parametrik doğrulama  
@@ -101,7 +101,7 @@ Analizlerde şu grafikler kullanılmıştır:
 ✅ R, istatistik ve veri bilimi araçlarının entegre kullanımı  
 
 
-👤 Yazar
+👤 ##Yazar
 
 **Yunus Ahmet Dokazoğlu**  
 🎓 Selçuk Üniversitesi – İstatistik Bölümü  
@@ -111,10 +111,10 @@ Analizlerde şu grafikler kullanılmıştır:
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/ahmet-dokazo%C4%9Flu-9660b2346/)
 
 
-📎 Ek Dökümanlar  
+📎 ##Ek Dökümanlar  
 📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx)   
 
 
-💬 Kısa Değerlendirme
+💬 ##Kısa Değerlendirme
 > Bu proje, klasik süreç yeterlilik analizlerinin ötesine geçerek, **asimetrik veri yapıları altında daha gerçekçi kalite ölçümü** sağlar.  
 > Hem **akademik araştırmalarda** hem de **üretim, kalite ve veri analitiği projelerinde** kullanılabilecek güçlü bir istatistiksel altyapı sunmaktadır.
