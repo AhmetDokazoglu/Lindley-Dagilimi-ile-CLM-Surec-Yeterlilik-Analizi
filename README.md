@@ -106,7 +106,7 @@ Analizlerde şu grafikler kullanılmıştır:
 
 
 📎 Ek Dökümanlar  
-📄 [Proje Raporunun Word Versiyonu (İndir)]([https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/blob/main/Proje_Raporu.docx](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx))  
+📄 [Proje Raporunun Word Versiyonu (İndir)](https://github.com/AhmetDokazoglu/Lindley-Dagilimi-ile-CLM-Surec-Yeterlilik-Analizi/raw/refs/heads/main/Lindley%20Dagilimi%20ile%20CLM%20Surec%20Yeterlilik%20Analizi.docx)   
 
 
 💬 Kısa Değerlendirme
